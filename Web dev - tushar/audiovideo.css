@@ -1,0 +1,11 @@
+* {
+    text-align: center;
+}
+h1 {
+    color: brown;
+    background-color: orange;
+    padding: 30px 20px;
+}
+h2 {
+    color: grey;
+}
