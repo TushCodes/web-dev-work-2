@@ -1,0 +1,44 @@
+body {
+    width: 95%;
+    padding: 1%;
+    border-style: double;
+}
+
+header {
+    background-color: lightblue;
+    color: #fff;
+    padding: 30px;
+    display: flex;
+}
+
+header img {
+    width: 100px;
+    margin-right: 10px;
+    border-radius: 5px;
+}
+
+header h1 {
+    position: relative;
+    color: #00156a;
+    padding: 10px;
+}
+
+main {
+    padding: 20px;
+}
+
+h1, h2 {
+    color: #333;
+}
+
+ul {
+    list-style-type: style type;
+    padding: 0;
+}
+
+footer {
+    background-color: #656565;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
